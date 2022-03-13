@@ -92,7 +92,10 @@ fieldset{
 
 
 /* CSSS for navbar section */
-
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
 .logo{
     width: 10%;
     float: left;

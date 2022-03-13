@@ -49,7 +49,7 @@
                 <button type="submit" name="submit" class="btn btn-success btn-lg btn-block">Submit</button>
             </form>
             <br>
-            <p class="text-center ">Created by- <a href="https://linktr.ee/debayan" class="badge badge-light">Debayan Jana</a></p>
+            <p class="text-center ">Created by- <a href="https://debayan7899.github.io/" class="badge badge-light">Debayan Jana</a></p>
         </div>
     </body>
 
