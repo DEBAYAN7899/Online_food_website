@@ -18,6 +18,11 @@
     </head>
 
     <body>
+        <div class="logo">
+            <a href="<?php echo SITEURL; ?>" title="Home">
+                <img src="../images/logo.png" alt="Restaurant Logo" class="img-responsive">
+            </a>
+        </div>
         <div class="login">
             <h1 class="text-center">LOGIN</h1>
 
